@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Arithmetic geodynamics on the 6N skeleton: tuple size determines stratum decay rate (Part XVII)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-04"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-geodynamics"
+keywords:
+  - prime constellations
+  - twin primes
+  - prime triplets
+  - Hardy-Littlewood
+  - singular series
+  - prime gaps
+  - experimental mathematics
+  - number theory
+references:
+  - type: article
+    title: "Some problems of 'Partitio Numerorum'; III: On the expression of a number as a sum of primes"
+    authors:
+      - {family-names: Hardy, given-names: "G. H."}
+      - {family-names: Littlewood, given-names: "J. E."}
+    journal: "Acta Mathematica"
+    volume: 44
+    year: 1923
+    start: 1
+    end: 70
+  - type: software
+    title: "Prime distribution on the 6N skeleton (Part I)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20470367
+  - type: software
+    title: "The microscopic root 1/(q-2) and the mean shift (Part XII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20528446
+  - type: software
+    title: "The prime triplet as a three-member two-centre CRT pattern (Part XV)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    url: "https://github.com/Ruqing1963/6N-prime-triplet"
